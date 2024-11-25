@@ -20,5 +20,4 @@ Check out the live demo here: [Simple Calculator Demo](https://simple-calculator
 - **HTML**: For building the structure of the calculator.
 - **CSS**: For styling the layout and making it responsive.
 - **JavaScript**: For the logic behind the operations and button interactions.
-- **Font Awesome (optional)**: For icon support (if used for "DEL" or other icons).
 
